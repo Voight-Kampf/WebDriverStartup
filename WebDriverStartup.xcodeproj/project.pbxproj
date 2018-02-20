@@ -15,6 +15,7 @@
 		4D3B7D0D203BFF1B00C82104 /* WebDriverStartup.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = WebDriverStartup.c; sourceTree = "<group>"; };
 		4D3B7D0F203BFF1B00C82104 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		4D4E841B203C059100C82104 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		4DA81529203C3DA400C82104 /* LICENSE.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = LICENSE.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -31,6 +32,7 @@
 		4D3B7D00203BFF1A00C82104 = {
 			isa = PBXGroup;
 			children = (
+				4DA81529203C3DA400C82104 /* LICENSE.md */,
 				4D4E841B203C059100C82104 /* README.md */,
 				4D3B7D0C203BFF1B00C82104 /* WebDriverStartup */,
 				4D3B7D0B203BFF1B00C82104 /* Products */,
